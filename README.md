@@ -1,7 +1,1 @@
-# deore.github.io
-
-
-
-vhhdfgvnsdiv 
-
-vklilrhkllksd
+this is the practice code of html
